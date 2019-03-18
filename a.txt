@@ -1,3 +1,1 @@
 "hello Git" 
-
-I can get A in Computer Programming
