@@ -1,1 +1,2 @@
-Bee is an Yasho.
+Bee is an Yasho. feature2 merge master
+
