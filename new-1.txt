@@ -1,4 +1,4 @@
 new-1.txt git102 
 
-user 2 change info in new-1.txt
+user 2 change info in new-1.txt again
 
